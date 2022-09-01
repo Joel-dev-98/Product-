@@ -1,4 +1,6 @@
 # Product-
+HTML CODE:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,4 +45,48 @@
     
 </body>
 </html>
+
+//CSS CODE:
+@import url https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@400;900&family=Paytone+One&display=swap" rel="stylesheet"
+
+
+
+p{
+    font-family: 'Montserrat';
+}
+
+.Parent{
+    background-color:bisque;
+    border-color: aquamarine;
+    border-style: double;
+    border-radius: 0.5cm;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    width: 60%;
+    
+    height: 100%;
+    
+}
+
+.right{
+    padding:5%;
+    text-align:left;
+    background-color: #cccccc;
+    width: 20%;
+    float: right;
+    align-items:center;
+  
+}
+
+.left{
+    padding:5%;
+    background-image: url("landscape-PNG-File.png")
+    background-color: #cccccc;
+    width:20%;
+    float: left;
+
+}
+
     
